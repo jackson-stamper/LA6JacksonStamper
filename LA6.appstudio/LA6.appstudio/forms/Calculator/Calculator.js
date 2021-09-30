@@ -1,4 +1,6 @@
 //set up each button separately
+
+/*
 btnAdd.onclick=function(){
   let n1 = Number(inptN1.value)
   let n2 = Number(inptN2.value)
@@ -14,3 +16,4 @@ btnMultiply.onclick=function(){
   
   txtResult.value = prod
 }
+*/
