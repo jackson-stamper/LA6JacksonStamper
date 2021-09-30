@@ -11,6 +11,7 @@ else{
   console.log(`${fName}, you have been added to the membership roster`)
 }
 */
+/*
 btnSubmission.onclick=function(){
   let fName = inptName.value
   let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
@@ -25,7 +26,7 @@ else{
   console.log(`${fName}, you have been added to the membership roster`)
 }
 }
-
+*/
 
 /*
   let userAddress = inptAddress.value
